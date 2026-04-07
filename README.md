@@ -5,4 +5,4 @@ Recovering images with missing pixels using SVD
 
 1. **Alania Lili**  
 2. **Dominika Petrus** 
-3. **Sofiia Trush**: [Recovering images with missing pixels | Sofiia Trush]([https://сам-лінк](https://youtu.be/mHuxlAF9YKE?si=QDlO29XSz2qx7M-R))
+3. **Sofiia Trush**: [Recovering images with missing pixels | Sofiia Trush](https://youtu.be/mHuxlAF9YKE?si=QDlO29XSz2qx7M-R)
